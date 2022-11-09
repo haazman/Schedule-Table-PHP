@@ -19,7 +19,7 @@
         <input type="text" name="uName" placeholder="Username" class="input w-full max-w-xs outline outline-gray-200" />
         <input type="password" name="password" placeholder="Password" class="input w-full max-w-xs outline outline-gray-200" />
         <div class="flex flex-row items-center pt-10 text-5xl gap-5">
-            <button class="btn bg-blue-700">Login</button> <a href="Table.php" class="btn">Continue as user</a>
+            <button class="btn bg-blue-700">Login</button> <a href="Table.php" class="btn">Continue as guest</a>
         </div>
     </form>
 </body>
