@@ -1,4 +1,4 @@
 <?php 
-header("Location: Login.php");
+header("Location: ./src/Login.php");
 
 ?>
